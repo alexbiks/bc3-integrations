@@ -1,0 +1,5 @@
+name: "COZYROC SSIS"
+description: "Easy connection between Basecamp and MSSQL Server"
+website: "https://basecamp.com/3/via"
+icon: "cozyroc.png"
+category: 1
