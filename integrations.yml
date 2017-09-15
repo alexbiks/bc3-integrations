@@ -12,6 +12,12 @@
 # 9 - Developer-only Tools
 #
 -
+  name: "COZYROC SSIS"
+  description: "Easy connection between Basecamp and MSSQL Server"
+  website: "http://www.cozyroc.com"
+  icon: "cozyroc.png"
+  category: 1
+-
   name: "mediatrigger.io"
   description: "Get notified in Basecamp when your company is mentioned on Twitter, Facebook, or Instagram."
   website: "https://www.mediatrigger.io"
